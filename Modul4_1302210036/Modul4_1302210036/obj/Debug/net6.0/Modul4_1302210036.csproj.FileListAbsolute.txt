@@ -1,0 +1,15 @@
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.csproj.AssemblyReference.cache
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.AssemblyInfoInputs.cache
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.AssemblyInfo.cs
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.csproj.CoreCompileInputs.cache
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\bin\Debug\net6.0\Modul4_1302210036.exe
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\bin\Debug\net6.0\Modul4_1302210036.deps.json
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\bin\Debug\net6.0\Modul4_1302210036.runtimeconfig.json
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\bin\Debug\net6.0\Modul4_1302210036.dll
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\bin\Debug\net6.0\Modul4_1302210036.pdb
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.dll
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\refint\Modul4_1302210036.dll
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.pdb
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\Modul4_1302210036.genruntimeconfig.cache
+E:\Prak_1302210036\Modul4_1302210036\Modul4_1302210036\obj\Debug\net6.0\ref\Modul4_1302210036.dll
